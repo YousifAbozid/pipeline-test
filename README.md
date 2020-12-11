@@ -1,15 +1,12 @@
-# Full Stack open CI/CD
+# My first pipeline
 
-This repository is used for the CI/CD module of the Full stack open course
+This is my first pipeline ever, you can see the workflow to understand what's going on here.
+you can clone this project and don't forget `npm install` first!
 
-Fork the repository to complete course exercises
+## Credit
 
-## Commands
+I did this by the amazing course [Full Stack Open](https://fullstackopen.com/en/) in [part 11](https://fullstackopen.com/en/part11).
 
-Start by running `npm install` inside the project folder
+I recommend this awesome course to you, this course is gonna change your life seriously.
 
-`npm start` to run the webpack dev server
-`npm test` to run tests
-`npm run eslint` to run eslint
-`npm run build` to make a production build
-`npm run start-prod` to run your production build
+### Happy learning coders :)
